@@ -12,11 +12,11 @@ artifactsTemplatesFolder="artifact-templates"
 : ${GENERATED_DOCKER_COMPOSE_FOLDER:=./dockercompose}
 #: ${FABRIC_DOCKER_VERSION=docker-ce-18.03.0.ce}
 
-: ${DOMAIN:="example.com"}
+: ${DOMAIN:="pgs.bj"}
 : ${IP_ORDERER:="127.0.0.1"}
-: ${ORG1:="a"}
-: ${ORG2:="b"}
-: ${ORG3:="c"}
+: ${ORG1:="Street Corner Shop Akpakpa"}
+: ${ORG2:="Village chief - Dangbo"}
+: ${ORG3:="Reseller Porto-Novo"}
 : ${MAIN_ORG:=${ORG1}}
 : ${IP1:="127.0.0.1"}
 : ${IP2:="127.0.0.1"}
